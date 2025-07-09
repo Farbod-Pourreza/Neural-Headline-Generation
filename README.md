@@ -30,7 +30,6 @@ Automatically summarizing and condensing large bodies of text into meaningful he
 - **TensorFlow / Keras**
 - **NumPy / Pandas**
 - **Gigaword Dataset** (preprocessed subset)
-- **Matplotlib / Seaborn** for visualization
 
 ---
 
